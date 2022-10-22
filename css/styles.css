@@ -214,7 +214,6 @@ img {
     color: var(--gray-color);
 }
 .description-icon {
-    margin: 25px 100px;
     fill: var(--brand-color);
 }
 #color {
