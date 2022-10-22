@@ -180,23 +180,19 @@ img {
 .description-item {
     width: 270px;
 }
-.description-link {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid var(--social-icon-color);
-    fill: var(--social-icon-color);
-    border-radius: 4px;
-}
 .description-block {
     padding: 30px 15px;
 }
 .description-block-image {
-    height: 120px;
     border-radius: 4px;
     background-color: var(--light-gray-color);
+}
+.description-block-image {
+    width: 270px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .description-list-title {
     margin-bottom: 10px;
