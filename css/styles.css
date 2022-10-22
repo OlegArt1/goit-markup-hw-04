@@ -177,15 +177,8 @@ img {
     gap: 30px;
     flex-direction: row;
 }
-.description-item {
-    
-}
 .description-block {
     padding: 30px 15px;
-}
-.description-block-image {
-    border-radius: 4px;
-    background-color: var(--light-gray-color);
 }
 .description-block-image {
     width: 270px;
@@ -193,6 +186,8 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 4px;
+    background-color: var(--light-gray-color);    
 }
 .description-list-title {
     margin-bottom: 10px;
@@ -208,12 +203,6 @@ img {
     line-height: 1.71;
     letter-spacing: 0.03em;
     color: var(--gray-color);
-}
-.description-icon {
-    fill: var(--brand-color);
-}
-#color {
-    fill: var(--black-color);
 }
 .gallery {
     padding-top: 0;
