@@ -178,7 +178,8 @@ img {
     flex-direction: row;
 }
 .description-block {
-    padding: 30px 15px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 .description-block-image {
     width: 270px;
